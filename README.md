@@ -1,5 +1,4 @@
-<!-- Banner principal -->
-<img src="https://i.imgur.com/zK5n9t8.gif" width="100%" alt="Cybersecurity Banner"/>
+
 
 # 👋 Hola, soy Jesús Eduardo Machuca Quintero  
 
